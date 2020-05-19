@@ -13,9 +13,9 @@ end
 
 def selection(num)
   message = ""
-  if num = 1
+  if num == 1
      message = "YUM YUM MUNCH MUNCH MUNCH"
-  elsif num = 2
+  elsif num == 2
      message = "HAM HAM HAM IN MY TUMMY"
      binding.pry
   end
