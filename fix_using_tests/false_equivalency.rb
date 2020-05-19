@@ -19,6 +19,7 @@ def selection(num)
      message = "HAM HAM HAM IN MY TUMMY"
      binding.pry
   end
+  num = 2
 message
 end
 
