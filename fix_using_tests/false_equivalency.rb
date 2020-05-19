@@ -17,6 +17,7 @@ def selection(num)
      message = "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 2
      message = "HAM HAM HAM IN MY TUMMY"
+     binding.pry
   end
 message
 end
