@@ -12,13 +12,11 @@ def prompt_user
 end
 
 def selection(num)
-  message = ""
   if num == 1
-     message = "YUM YUM MUNCH MUNCH MUNCH"
+     "YUM YUM MUNCH MUNCH MUNCH"
   elsif num == 2
-     message = "HAM HAM HAM IN MY TUMMY"
+     "HAM HAM HAM IN MY TUMMY"
   end
-message
 end
 
 def runner
