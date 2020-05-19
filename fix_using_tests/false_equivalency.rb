@@ -13,7 +13,6 @@ end
 
 def selection(num)
   message = ""
-  binding.pry
   if num = 1
      message = "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 2
